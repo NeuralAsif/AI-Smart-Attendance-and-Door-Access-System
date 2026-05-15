@@ -307,18 +307,7 @@ Use `.gitignore` properly.
 
 ---
 
-# Screenshots
 
-## Face Recognition Interface
-(Add screenshot here)
-
-## Attendance Dashboard
-(Add screenshot here)
-
-## Smart Door System
-(Add screenshot here)
-
----
 
 # Hardware Components
 
