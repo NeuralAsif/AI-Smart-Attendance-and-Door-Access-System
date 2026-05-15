@@ -9,6 +9,8 @@ This project automatically recognizes faces, marks attendance, updates cloud rec
 <img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/90b843c1-35d6-4333-9afa-08c3e6dff995" />
 # Door System
 https://github.com/user-attachments/assets/23e5dc09-db6a-4d59-a462-36716ce75f37
+
+
 # Features
 
 ## Face Recognition Attendance
