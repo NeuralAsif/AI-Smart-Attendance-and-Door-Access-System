@@ -10,6 +10,8 @@ This project automatically recognizes faces, marks attendance, updates cloud rec
 
 # Door System
 
+This system automatically controls a door using face recognition. When a detected person is identified as a registered student or faculty member, the door opens automatically, stays open for 3 seconds, and then closes securely. It ensures smart, contactless, and secure access control.
+
 https://github.com/user-attachments/assets/337feb4b-3167-4b35-85ad-2729bdd5f35d
 
 
