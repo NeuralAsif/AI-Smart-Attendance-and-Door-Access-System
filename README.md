@@ -7,8 +7,10 @@ This project automatically recognizes faces, marks attendance, updates cloud rec
 ---
 # ESP32 setup
 <img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/90b843c1-35d6-4333-9afa-08c3e6dff995" />
+
 # Door System
-https://github.com/user-attachments/assets/23e5dc09-db6a-4d59-a462-36716ce75f37
+
+https://github.com/user-attachments/assets/337feb4b-3167-4b35-85ad-2729bdd5f35d
 
 
 # Features
