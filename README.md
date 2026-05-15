@@ -5,7 +5,8 @@ An AI-powered smart attendance and door automation system using Face Recognition
 This project automatically recognizes faces, marks attendance, updates cloud records, and controls a smart door lock in real time.
 
 ---
-
+# ESP32 setup
+<img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/90b843c1-35d6-4333-9afa-08c3e6dff995" />
 # Features
 
 ## Face Recognition Attendance
