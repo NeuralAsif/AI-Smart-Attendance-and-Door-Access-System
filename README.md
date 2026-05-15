@@ -7,6 +7,9 @@ This project automatically recognizes faces, marks attendance, updates cloud rec
 ---
 # ESP32 setup
 <img width="1376" height="768" alt="Image" src="https://github.com/user-attachments/assets/90b843c1-35d6-4333-9afa-08c3e6dff995" />
+#Door System
+This system automatically controls a door using face recognition. When a detected person is identified as a registered student or faculty member, the door opens automatically, stays open for 3 seconds, and then closes securely. It ensures smart, contactless, and secure access control.
+https://github.com/user-attachments/assets/23e5dc09-db6a-4d59-a462-36716ce75f37
 # Features
 
 ## Face Recognition Attendance
